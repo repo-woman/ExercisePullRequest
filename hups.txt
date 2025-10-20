@@ -1,1 +1,2 @@
-tarkeaa;dataa;jonossa;
+tarkeaa;dataa;jonossa;jono;jatkuu;
+ja;sotkee;merget;
